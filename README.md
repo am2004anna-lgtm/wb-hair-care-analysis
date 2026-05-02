@@ -50,3 +50,5 @@ python 03_analiz.py
 ## Ссылка на график
 
 ![График анализа](analiz_nesmyvashki.png)
+
+ [Скачать PDF-отчёт с анализом](analiz_report.pdf)
